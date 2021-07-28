@@ -5,7 +5,7 @@ Este sistema de Registro y Control de Notas para Estudiantes en PHP y MySQL le p
 Agregar Estudiantes
 Agregar los años escolares o semestres si se aplica para una universidad
 Ingresar las notas de las materias relacionadas, modificarlas y validar la nota promedio relacionada
-Este software es una versión mejorada de una aplicación también a la venta llamada Sistema Web en PHP y MySQL para calificaciones de alumnos en línea básicamente la mayor diferencia es que esta aplicación es más responsiva he imprime los reportes en PDF.
+Este software es una versión mejorada de una aplicación también a la venta llamada <a href="https://www.configuroweb.com/sistema-web-en-php-y-mysql-para-calificaciones-de-alumnos-en-linea/">Sistema Web en PHP y MySQL para calificaciones de alumnos en línea</a> básicamente la mayor diferencia es que esta aplicación es más responsiva he imprime los reportes en PDF.
 
 # Importante
 
